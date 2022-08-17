@@ -4,7 +4,7 @@
 
 * What is the name of the company? 
   * Zai is the official brand name of the company (https://www.hellozai.com/)
-  * Prior to Zai, the company was a merged from the Assembly Payment and CurrencyFair (https://blog.hellozai.com/zai-merger-creates-a-new-force-in-australian-financial-services). 
+  * Prior to Zai, the company was a merged from the Assembly Payment (as PromisePay) and CurrencyFair (https://blog.hellozai.com/zai-merger-creates-a-new-force-in-australian-financial-services). 
   * Both Assembly Payments and CurrencyFair were founded by Australian innovators
 
 * When was the company incorporated?
@@ -76,7 +76,7 @@ https://blog.hellozai.com/the-story-of-zai-a-new-force-in-financial-services
   * Payments & Remittances (https://blog.hellozai.com/the-australian-payment-landscape-numbers-and-insights)  * 
 * What have been the major trends and innovations of this domain over the last 5–10 years?
   * The industry is modernising messaging, systems, and infrastructure to ensure the payments system remains efficient and resilient into the future
-  * Zai worked with Proptech, Fintech, Crypto Exchanges, Remitters and other Digital Platforms  
+  * Zai worked with Proptech, Fintech, Crypto Exchanges, Remitters, B2B Platforms & Market Places and other Digital Platforms  
 * What are the other major companies in this domain?
   * PayPal. It’s ideal for:  common consumers, freelancers, service providers, E-bay sellers. https://www.paypal.com/au/home
   * Stripe. Ideal for companies looking to design and implement their payment modalities using special programs. https://stripe.com/au
@@ -90,9 +90,20 @@ https://blog.hellozai.com/the-story-of-zai-a-new-force-in-financial-services
 ## Results
 
 * What has been the business impact of this company so far?
-
+  * Growth and transformation. By 2016 CurrencyFair had helped its customers transfer €3.1 billion, saving them €160 million in transaction charges along the way. 
+  * In October that year, an  important new character entered the CurrencyFair story as serial Irish entrepreneur Paul Byrne discovered the company: “I was a customer,” explained Byrne, “using CurrencyFair to transfer the proceeds of the sale of a business in the US from dollars to euro. I didn't know Brett personally but I got to meet him through mutual contacts.”
+  
+  2017 was a pivotal year for both companies as they looked to move through the next stages of their impressive trajectories.
+  
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-
+  * Innovation, investment and awards.
+  
+    In 2017, Assembly Payments also inked its first major partnership deal with classified ads giant, Gumtree and was increasing its revenue 25% month-on-month. 
+    It was  active on over 100 platforms, including Airtasker, Hipages, Flippa and Carsales.com.au. and had raised over AU$13 million from investors. It also took home 
+    an Excellence in Payments award from Fintech Australia. It was quite the progression in four short years.
+    
+    Source: https://blog.hellozai.com/the-story-of-zai-a-new-force-in-financial-services
+    
 * How is your company performing relative to competitors in the same domain?
 
 
